@@ -1,2 +1,2 @@
 # spatial_big_data
-Program Demo Geospatial Big Data pada Webinar Seri #2
+Program Demo Geospatial Big Data pada Webinar Seri #2 STMIK AMIKBANDUNG 
